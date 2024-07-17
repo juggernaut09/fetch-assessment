@@ -1,4 +1,3 @@
-// Function to calculate points
 const calculatePoints = (receipt) => {
     let points = 0;
 
